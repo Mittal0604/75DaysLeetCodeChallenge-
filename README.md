@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
