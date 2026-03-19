@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0050-powx-n/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
