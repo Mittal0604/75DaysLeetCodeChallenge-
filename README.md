@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0058-length-of-last-word/) | Easy |
@@ -18,6 +19,7 @@
 | [0007-reverse-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
@@ -55,4 +57,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
