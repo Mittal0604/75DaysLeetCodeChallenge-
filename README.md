@@ -58,12 +58,14 @@
 | [0136-single-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0179-largest-number/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +83,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
