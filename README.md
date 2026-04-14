@@ -27,6 +27,7 @@
 | [0050-powx-n](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
+| [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
