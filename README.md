@@ -69,6 +69,7 @@
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
+| [0217-contains-duplicate](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0414-third-maximum-number/) | Easy |
@@ -78,6 +79,7 @@
 | [0012-integer-to-roman](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@
 | [0015-3sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0414-third-maximum-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
