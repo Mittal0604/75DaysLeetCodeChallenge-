@@ -14,6 +14,7 @@
 | [0179-largest-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0344-reverse-string/) | Easy |
+| [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [0050-powx-n](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
+| [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -132,4 +134,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 <!---LeetCode Topics End-->
