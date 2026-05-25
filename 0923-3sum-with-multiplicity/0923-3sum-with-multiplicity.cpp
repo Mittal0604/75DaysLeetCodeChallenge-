@@ -25,6 +25,7 @@ public:
                         right--; countR++;
                     }
                     ans+=(countL*countR);
+                    ans%=mod;
                 }else if(sum>target){
                     right--;
                 }else{
