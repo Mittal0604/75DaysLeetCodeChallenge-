@@ -4,8 +4,8 @@ public:
         int maxi=0;
         for(int x:nums) maxi=max(maxi,x);
         int n=nums.size();
-        int l=0,r=0,count=0;  long long ans=0;
-        while(r<n){
+        int l=0,count=0;  long long ans=0;
+        for(int r=0;r<n;r++){
             if(nums[r]==maxi){
                 count++;
                 while(count>=k){
@@ -14,7 +14,6 @@ public:
                     l++;
                 }
             }
-            r++;
         }
         return ans;
     }
