@@ -70,6 +70,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 ## Hash Table
