@@ -96,6 +96,7 @@
 | [0457-circular-array-loop](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0457-circular-array-loop/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
@@ -141,6 +142,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +195,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
