@@ -224,4 +224,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
