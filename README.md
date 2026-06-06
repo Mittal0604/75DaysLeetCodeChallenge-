@@ -15,6 +15,7 @@
 | [0179-largest-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Stack
@@ -56,6 +57,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0457-circular-array-loop](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0457-circular-array-loop/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
