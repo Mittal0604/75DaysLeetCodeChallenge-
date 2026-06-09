@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [0206-reverse-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 ## Hash Table
@@ -212,6 +215,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
+| [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,4 +261,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
