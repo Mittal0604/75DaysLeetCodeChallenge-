@@ -106,6 +106,7 @@
 | [0015-3sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0136-single-number/) | Easy |
@@ -298,5 +299,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
