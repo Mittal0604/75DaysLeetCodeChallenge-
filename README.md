@@ -214,6 +214,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0070-climbing-stairs/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -285,6 +286,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -323,6 +325,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,4 +337,5 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
