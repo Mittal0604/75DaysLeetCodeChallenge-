@@ -157,6 +157,7 @@
 | [0457-circular-array-loop](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0457-circular-array-loop/) | Medium |
 | [0525-contiguous-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Greedy
@@ -288,6 +289,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,16 +328,19 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
