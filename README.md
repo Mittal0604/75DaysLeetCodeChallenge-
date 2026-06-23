@@ -288,6 +288,7 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Doubly-Linked List
@@ -328,6 +329,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -342,5 +344,6 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
