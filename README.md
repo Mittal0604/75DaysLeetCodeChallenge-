@@ -37,6 +37,7 @@
 | [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
@@ -241,6 +242,7 @@
 | [0045-jump-game-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -349,6 +351,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0062-unique-paths/) | Medium |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
