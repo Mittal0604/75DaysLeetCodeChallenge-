@@ -1,69 +1,37 @@
-//dfs approach
-
-// class Solution {
-//     vector<vector<int>> adj;
-//     vector<int> answer;
-//     int k;
-// public:
-//     void dfs(int node,int dis,int parent) {
-
-//         if (dis == k) {
-//             answer.push_back(node);
-//             return;
-//         }
-//         for (int next : adj[node]) {
-//             if (next == parent) continue;
-//             dfs(next,dis+1,node);
-//         }
-//     }
-//     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-//         this->k = k;
-//         adj.resize(501,vector<int>());
-//         dfs(root,nullptr);
-//         dfs(target->val,0,-1);
-//         return answer;
-//     }
-//     void dfs(TreeNode* root,TreeNode* parent) {
-//         if (root == nullptr) return;
-
-//         int u = root->val;
-//         if (parent != nullptr) {
-//             int v = parent->val;
-//             adj[u].push_back(v);
-//             adj[v].push_back(u);
-//         }
-//         dfs(root->left, root);
-//         dfs(root->right, root);
-//     }
-// };
-
-// Map Approach
-
 class Solution {
-    unordered_map<TreeNode*,TreeNode*> parent;
-    vector<int> answer;
-    int k;
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        this->k = k;
-        dfs(root,nullptr);
-        dfs(target,nullptr,0);
-        return answer;
-    }
-    void dfs(TreeNode* root,TreeNode* path,int dis) {
-        if(root == nullptr) return;
-        if (dis == k) {
-            answer.push_back(root->val);
-            return;
+        vector<TreeNode*> parent(501,0);
+        // parent[root->val] = nullptr;
+        dfs(root,nullptr,parent);
+        int depth = -1;
+        queue<pair<TreeNode*,TreeNode*>> q;
+        q.push({target,nullptr});
+        vector<int> answer;
+        bool check = false;
+        while (q.size() != 0){
+            int size = q.size();
+            depth++;
+            for (int i = 0;i<size;i++) {
+                auto [node,p] = q.front(); q.pop();
+               if (depth == k) {
+                check = true;
+                answer.push_back(node->val);
+               }
+               if (node->left != nullptr && node->left != p) q.push({node->left,node});
+               if (node->right != nullptr && node->right != p) q.push({node->right,node});
+               if (parent[node->val] != nullptr && parent[node->val] != p) q.push({parent[node->val],node});
+            }
+            if (check) return answer;
         }
-        if (root->left != path) dfs(root->left,root,dis+1);
-        if (root->right != path) dfs(root->right,root,dis+1);
-        if (parent[root] != path) dfs(parent[root],root,dis+1);
+        return {};
     }
-    void dfs(TreeNode* root,TreeNode* p) {
-        if (root == nullptr) return;
-        parent[root] = p;
-        dfs(root->left,root);
-        dfs(root->right,root);
-    }
+    void dfs(TreeNode* root,TreeNode* p,vector<TreeNode*>& parent) {
+        if (root ==nullptr) return;
+        if (p !=  nullptr) {
+            parent[root->val] = p;
+        }
+        dfs(root->left,root,parent);
+        dfs(root->right,root,parent);
+    } 
 };
