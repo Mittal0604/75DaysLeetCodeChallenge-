@@ -127,6 +127,7 @@
 | [0051-n-queens](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -240,6 +241,7 @@
 | [0045-jump-game-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -352,6 +354,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0037-sudoku-solver/) | Hard |
+| [0064-minimum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0064-minimum-path-sum/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
