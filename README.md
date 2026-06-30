@@ -98,6 +98,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -118,6 +119,7 @@
 | [0011-container-with-most-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0045-jump-game-ii/) | Medium |
