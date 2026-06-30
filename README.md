@@ -139,6 +139,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0283-move-zeroes/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0414-third-maximum-number/) | Easy |
 | [0457-circular-array-loop](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0457-circular-array-loop/) | Medium |
@@ -247,6 +248,7 @@
 | [0070-climbing-stairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
@@ -374,6 +376,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
