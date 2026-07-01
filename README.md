@@ -54,6 +54,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0148-sort-list/) | Medium |
@@ -81,6 +82,7 @@
 | [0015-3sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0061-rotate-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0142-linked-list-cycle-ii/) | Medium |
