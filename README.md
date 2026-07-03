@@ -130,6 +130,7 @@
 | [0015-3sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0049-group-anagrams/) | Medium |
@@ -362,6 +363,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0078-subsets/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0301-remove-invalid-parentheses/) | Hard |
