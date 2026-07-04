@@ -152,6 +152,7 @@
 | [0217-contains-duplicate](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0283-move-zeroes/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -231,6 +232,7 @@
 | [0053-maximum-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Counting
@@ -295,11 +297,13 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
 ## Ordered Set
@@ -320,6 +324,7 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
