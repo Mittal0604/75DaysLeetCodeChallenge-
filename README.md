@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -179,6 +180,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0049-group-anagrams/) | Medium |
@@ -363,6 +365,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0039-combination-sum/) | Medium |
