@@ -73,7 +73,7 @@
 class NumArray {
 private:
     vector<int> bit;
-    vector<int> nums;
+    vector<int> arr;
     int n;
 
     void add(int i, int val) {
@@ -93,18 +93,18 @@ private:
     }
 
 public:
-    NumArray(vector<int>& nums) {
-        this->nums = nums;
-        this->n = nums.size();
+    NumArray(vector<int>& arr) {
+        this->arr = arr;
+        this->n = arr.size();
         this->bit.assign(n + 1, 0);
         for (int i = 0; i < n; ++i) {
-            add(i + 1, nums[i]);
+            add(i + 1, arr[i]);
         }
     }
 
     void update(int index, int val) {
-        int delta = val - nums[index];
-        nums[index] = val;
+        int delta = val - arr[index];
+        arr[index] = val;
         add(index + 1, delta);
     }
 
