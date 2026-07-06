@@ -44,6 +44,7 @@
 | [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
@@ -75,6 +76,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
@@ -125,6 +127,7 @@
 | [0078-subsets](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
