@@ -1,19 +1,18 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        return generate(nums.size(), nums);
-    }
-    vector<vector<int>> generate(int n, vector<int>& nums) {
-        if (n == 0) {
-            return {{}};
+        vector<vector<int>>ans;
+        int n=nums.size();
+        int s=1<<n;
+        for(int num=0;num<s;num++){
+            vector<int> temp;
+            for(int i=0;i<n;i++){
+                if((num &(1<<i))){
+                    temp.push_back(nums[i]);
+                }
+            }
+            ans.push_back(temp);
         }
-        int num = nums[n-1];
-        vector<vector<int>> faith = generate(n-1,nums);
-        vector<vector<int>> answer = faith;
-        for (vector<int> temp : faith) {
-            temp.push_back(num);
-            answer.push_back(temp);
-        }
-        return answer;
+        return ans;
     }
 };
