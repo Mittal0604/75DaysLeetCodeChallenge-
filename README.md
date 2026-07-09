@@ -13,6 +13,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0058-length-of-last-word/) | Easy |
+| [0079-word-search](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0179-largest-number/) | Medium |
@@ -147,6 +148,7 @@
 | [0063-unique-paths-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -349,6 +351,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0079-word-search/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -383,6 +386,7 @@
 | [0039-combination-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0090-subsets-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Combinatorics
@@ -396,6 +400,7 @@
 | [0037-sudoku-solver](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0079-word-search/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0994-rotting-oranges/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
