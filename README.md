@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0020-valid-parentheses/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
@@ -303,6 +304,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
@@ -320,6 +322,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
