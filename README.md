@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -92,6 +93,7 @@
 | [0015-3sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0141-linked-list-cycle/) | Easy |
@@ -145,6 +147,7 @@
 | [0037-sudoku-solver](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0051-n-queens/) | Hard |
@@ -275,6 +278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0055-jump-game/) | Medium |
@@ -384,6 +388,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0739-daily-temperatures/) | Medium |
