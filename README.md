@@ -36,6 +36,7 @@
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0739-daily-temperatures/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@
 | [0860-lemonade-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0860-lemonade-change/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -290,6 +292,7 @@
 | [0152-maximum-product-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
+| [0907-sum-of-subarray-minimums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
@@ -392,6 +395,7 @@
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0739-daily-temperatures/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
