@@ -21,6 +21,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -33,6 +34,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0735-asteroid-collision/) | Medium |
@@ -230,6 +232,7 @@
 | [0045-jump-game-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0179-largest-number/) | Medium |
+| [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0860-lemonade-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0860-lemonade-change/) | Easy |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
@@ -397,6 +400,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0739-daily-temperatures/) | Medium |
