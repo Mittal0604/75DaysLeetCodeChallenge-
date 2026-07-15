@@ -30,6 +30,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -162,6 +163,7 @@
 | [0064-minimum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0079-word-search/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -400,6 +402,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
