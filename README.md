@@ -134,6 +134,7 @@
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -199,6 +200,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
@@ -280,6 +282,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -333,6 +336,7 @@
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 ## Design
 | Problem Name | Difficulty |
