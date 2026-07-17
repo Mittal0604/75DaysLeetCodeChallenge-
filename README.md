@@ -137,6 +137,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -206,6 +207,7 @@
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -245,6 +247,7 @@
 | [0860-lemonade-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0860-lemonade-change/) | Easy |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
