@@ -62,6 +62,7 @@
 | [0258-add-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2235-add-two-integers/) | Easy |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -207,6 +208,7 @@
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -297,6 +299,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0258-add-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
