@@ -10,7 +10,7 @@ public:
         long long right=nse[i]-i;
         total=(total+(right*left*arr[i])%mod)%mod;
       }
-      return total;  
+      return total;
     }
      vector<int> findNSE(vector<int>& nums) {
         int n=nums.size();
