@@ -67,6 +67,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2235-add-two-integers/) | Easy |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -271,6 +272,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
