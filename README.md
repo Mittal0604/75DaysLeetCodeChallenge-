@@ -210,6 +210,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -271,6 +272,7 @@
 | [0414-third-maximum-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0414-third-maximum-number/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -445,6 +447,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
