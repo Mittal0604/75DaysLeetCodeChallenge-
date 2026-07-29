@@ -64,6 +64,7 @@
 | [0258-add-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2235-add-two-integers/) | Easy |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
@@ -206,6 +207,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
