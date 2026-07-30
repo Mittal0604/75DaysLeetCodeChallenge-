@@ -415,6 +415,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0079-word-search/) | Medium |
+| [0101-symmetric-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -482,6 +483,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -492,6 +494,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -503,6 +506,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
