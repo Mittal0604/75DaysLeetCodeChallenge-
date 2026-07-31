@@ -420,6 +420,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -488,6 +489,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -499,6 +501,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0994-rotting-oranges/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -511,12 +514,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Union-Find
