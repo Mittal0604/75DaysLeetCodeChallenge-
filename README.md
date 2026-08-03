@@ -25,6 +25,7 @@
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2942-find-words-containing-character/) | Easy |
+| [3110-score-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3110-score-of-a-string/) | Easy |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Stack
