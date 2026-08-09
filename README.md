@@ -195,6 +195,7 @@
 | [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0457-circular-array-loop](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0457-circular-array-loop/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -246,6 +247,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0457-circular-array-loop](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0457-circular-array-loop/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0525-contiguous-array/) | Medium |
