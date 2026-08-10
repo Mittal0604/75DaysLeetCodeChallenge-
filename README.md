@@ -70,6 +70,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2469-convert-the-temperature/) | Easy |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
