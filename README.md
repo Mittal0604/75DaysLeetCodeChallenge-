@@ -213,6 +213,7 @@
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0739-daily-temperatures/) | Medium |
@@ -381,6 +382,7 @@
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
