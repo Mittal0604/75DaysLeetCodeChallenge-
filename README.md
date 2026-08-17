@@ -24,6 +24,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
+| [0709-to-lower-case](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0709-to-lower-case/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3110-score-of-a-string/) | Easy |
