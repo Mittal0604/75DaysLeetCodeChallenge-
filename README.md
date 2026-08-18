@@ -73,6 +73,7 @@
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2235-add-two-integers/) | Easy |
@@ -225,6 +226,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -282,6 +284,7 @@
 | [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0860-lemonade-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0860-lemonade-change/) | Easy |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -301,6 +304,7 @@
 | [0414-third-maximum-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0414-third-maximum-number/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -577,4 +581,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
