@@ -75,6 +75,7 @@
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2469-convert-the-temperature/) | Easy |
@@ -236,6 +237,7 @@
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
