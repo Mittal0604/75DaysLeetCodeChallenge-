@@ -80,6 +80,7 @@
 | [2235-add-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2235-add-two-integers/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2469-convert-the-temperature/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -249,6 +250,7 @@
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
