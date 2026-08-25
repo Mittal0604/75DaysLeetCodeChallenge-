@@ -75,6 +75,7 @@
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1518-water-bottles](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1518-water-bottles/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2235-add-two-integers/) | Easy |
@@ -388,6 +389,7 @@
 | [0258-add-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0735-asteroid-collision/) | Medium |
+| [1518-water-bottles](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1518-water-bottles/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
