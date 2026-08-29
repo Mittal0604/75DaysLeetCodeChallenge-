@@ -5,11 +5,9 @@ public:
       for(auto i : arr){
         mp[i]++;
       }
-      int n = arr.size();
-      int ans = 0;
       for(auto i : mp){
-        if(i.second > n/4) ans = i.first;
+        if(i.second > arr.size()/4) return i.first;
       }
-      return ans;  
+      return 0;  
     }
 };
