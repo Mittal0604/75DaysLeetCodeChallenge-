@@ -25,6 +25,7 @@
 | [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0796-rotate-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0917-reverse-only-letters/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2942-find-words-containing-character/) | Easy |
@@ -151,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0796-rotate-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
