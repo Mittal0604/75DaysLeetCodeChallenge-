@@ -483,6 +483,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -569,6 +570,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -600,6 +602,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Manacher
@@ -625,6 +628,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -638,4 +642,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
