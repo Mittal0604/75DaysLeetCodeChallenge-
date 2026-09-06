@@ -254,6 +254,7 @@
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -294,6 +295,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
@@ -347,6 +349,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
