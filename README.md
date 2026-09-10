@@ -74,6 +74,7 @@
 | [0258-add-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
@@ -658,4 +659,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0785-is-graph-bipartite/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
