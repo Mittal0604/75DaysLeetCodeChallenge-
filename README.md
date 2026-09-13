@@ -23,6 +23,7 @@
 | [0344-reverse-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
+| [0412-fizz-buzz](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0709-to-lower-case/) | Easy |
@@ -77,6 +78,7 @@
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
@@ -411,6 +413,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0735-asteroid-collision/) | Medium |
 | [1518-water-bottles](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1518-water-bottles/) | Easy |
