@@ -232,6 +232,7 @@
 | [0414-third-maximum-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0457-circular-array-loop](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0457-circular-array-loop/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0525-contiguous-array/) | Medium |
