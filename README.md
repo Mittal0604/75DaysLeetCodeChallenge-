@@ -25,6 +25,7 @@
 | [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
+| [0520-detect-capital](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0796-rotate-string/) | Easy |
