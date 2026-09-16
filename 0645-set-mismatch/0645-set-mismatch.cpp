@@ -1,21 +1,23 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        unordered_map<int,int> freq;
-        vector<int> ans;
-        for( int x : nums){
-            freq[x]++;
+        vector<int>ans;
+        map<int,int>mpp;
+        for(int i=0;i<nums.size();i++){
+            mpp[nums[i]]++;
         }
-        for(auto it : freq){
-            if(it.second == 2){
-                ans.push_back(it.first);
-            }  
-        }
-        for(int i = 1; i <= nums.size(); i++){
-            if(freq.find(i) == freq.end()) {
-                ans.push_back(i);
+        int duplicate;
+        int missing;
+        for(int i=1;i<=nums.size();i++){
+            if(mpp[i]==2){
+                duplicate=i;
+            }
+            else if(mpp[i]==0){
+                missing=i;
             }
         }
+        ans.push_back(duplicate);
+        ans.push_back(missing);   
         return ans;
-    }
+        }  
 };
