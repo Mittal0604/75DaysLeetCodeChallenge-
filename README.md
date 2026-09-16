@@ -86,6 +86,7 @@
 | [0728-self-dividing-numbers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1025-divisor-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1518-water-bottles](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1518-water-bottles/) | Easy |
@@ -410,6 +411,7 @@
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1025-divisor-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1025-divisor-game/) | Easy |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
@@ -681,6 +683,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1025-divisor-game/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -689,6 +692,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1025-divisor-game/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -697,4 +701,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
