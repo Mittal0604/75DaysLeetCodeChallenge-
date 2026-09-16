@@ -192,6 +192,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0645-set-mismatch/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Array
@@ -239,6 +240,7 @@
 | [0503-next-greater-element-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0731-my-calendar-ii/) | Medium |
@@ -304,6 +306,7 @@
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -339,6 +342,7 @@
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0414-third-maximum-number/) | Easy |
+| [0645-set-mismatch](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0645-set-mismatch/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
