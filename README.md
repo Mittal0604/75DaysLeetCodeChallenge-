@@ -639,6 +639,7 @@
 | [0785-is-graph-bipartite](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
@@ -665,6 +666,7 @@
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
