@@ -90,6 +90,7 @@
 | [1025-divisor-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1518-water-bottles](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1518-water-bottles/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -198,6 +199,7 @@
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0645-set-mismatch/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
