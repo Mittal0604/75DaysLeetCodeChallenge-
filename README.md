@@ -70,6 +70,7 @@
 | [0029-divide-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0202-happy-number/) | Easy |
@@ -219,6 +220,7 @@
 | [0055-jump-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
