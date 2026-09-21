@@ -278,6 +278,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1929-concatenation-of-array/) | Easy |
@@ -588,6 +589,7 @@
 | [0994-rotting-oranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
