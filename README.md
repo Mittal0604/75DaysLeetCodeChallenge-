@@ -22,6 +22,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
@@ -311,6 +312,7 @@
 | [0242-valid-anagram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0457-circular-array-loop](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0457-circular-array-loop/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0496-next-greater-element-i/) | Easy |
@@ -376,6 +378,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Sliding Window
@@ -479,6 +482,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
