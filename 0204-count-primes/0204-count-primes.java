@@ -5,22 +5,18 @@ class Solution {
         if (count == null) {
             int max = 5000000;
             count = new int[max+1];
-            boolean[] arr = new boolean[max];
-            Arrays.fill(arr,true);
-            arr[0] = arr[1] = false;
+            int[] arr = new int[max];
+            Arrays.fill(arr,1);
+            arr[0] = arr[1] = 0;
             for (int i = 2;i*i<max;i++) {
-                if (!arr[i]) continue;
+                if (arr[i] == 0) continue;
                 for (int j = i*i;j<max;j+=i) {
-                    arr[j] = false;
+                    arr[j] = 0;
                 }
             }
             Arrays.fill(count,0);
             for (int i = 1;i<max;i++) {
-                if (arr[i]) {
-                    count[i] = count[i-1] + 1;
-                } else {
-                    count[i] = count[i-1];
-                }
+                count[i] = count[i-1] + arr[i];
             }
         }
         return count[n-1];
