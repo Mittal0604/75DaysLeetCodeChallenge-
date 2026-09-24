@@ -1,9 +1,11 @@
 class Solution {
-    static boolean[] arr;
+    static int[] count;
     public int countPrimes(int n) {
-        if (arr == null) {
+        if (n<2) return 0;
+        if (count == null) {
             int max = 5000000;
-            arr = new boolean[max];
+            count = new int[max+1];
+            boolean[] arr = new boolean[max];
             Arrays.fill(arr,true);
             arr[0] = arr[1] = false;
             for (int i = 2;i*i<max;i++) {
@@ -12,11 +14,15 @@ class Solution {
                     arr[j] = false;
                 }
             }
+            Arrays.fill(count,0);
+            for (int i = 1;i<max;i++) {
+                if (arr[i]) {
+                    count[i] = count[i-1] + 1;
+                } else {
+                    count[i] = count[i-1];
+                }
+            }
         }
-        int count = 0;
-        for (int i = 0;i<n;i++) {
-            if (arr[i]) count++;
-        }
-        return count;
+        return count[n-1];
     }
 }
