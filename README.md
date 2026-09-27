@@ -37,6 +37,7 @@
 | [3136-valid-word](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3136-valid-word/) | Easy |
 | [3343-count-number-of-balanced-permutations](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3343-count-number-of-balanced-permutations/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
