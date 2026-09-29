@@ -32,6 +32,7 @@
 | [0796-rotate-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0796-rotate-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0917-reverse-only-letters/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1528-shuffle-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1528-shuffle-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3110-score-of-a-string/) | Easy |
 | [3136-valid-word](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3136-valid-word/) | Easy |
@@ -279,6 +280,7 @@
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1528-shuffle-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1528-shuffle-string/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
