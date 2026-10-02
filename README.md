@@ -83,6 +83,7 @@
 | [0263-ugly-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
@@ -137,6 +138,7 @@
 | [0206-reverse-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
