@@ -86,6 +86,7 @@
 | [0326-power-of-three](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0367-valid-perfect-square/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0507-perfect-number/) | Easy |
@@ -207,6 +208,7 @@
 | [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0645-set-mismatch/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
