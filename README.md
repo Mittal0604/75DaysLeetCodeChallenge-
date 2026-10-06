@@ -174,6 +174,7 @@
 | [1089-duplicate-zeros](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1089-duplicate-zeros/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String Matching
@@ -298,6 +299,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2942-find-words-containing-character/) | Easy |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -338,6 +340,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
@@ -375,6 +378,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3731-find-missing-elements/) | Easy |
