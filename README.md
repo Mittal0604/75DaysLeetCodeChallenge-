@@ -171,6 +171,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1089-duplicate-zeros/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -278,6 +279,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1089-duplicate-zeros](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1089-duplicate-zeros/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
