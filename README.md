@@ -31,6 +31,7 @@
 | [0709-to-lower-case](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0796-rotate-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0917-reverse-only-letters/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1528-shuffle-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1528-shuffle-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2942-find-words-containing-character/) | Easy |
@@ -59,6 +60,7 @@
 | [0735-asteroid-collision](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -352,6 +354,7 @@
 | [0179-largest-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0402-remove-k-digits/) | Medium |
 | [0860-lemonade-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0860-lemonade-change/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0969-pancake-sorting](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0969-pancake-sorting/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -757,4 +760,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
