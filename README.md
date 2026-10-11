@@ -304,6 +304,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2942-find-words-containing-character/) | Easy |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -419,6 +420,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
