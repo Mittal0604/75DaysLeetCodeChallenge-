@@ -6,12 +6,12 @@ public:
      for(int i = 0; i < nums.size(); i++){
         if(nums[i] != largest && nums[i] * 2 <= largest) count++; 
      }
-     int ans = -1;
+     //int ans = -1;
      if(count == nums.size()-1) {
         for(int i = 0; i < nums.size(); i++){
-            if(largest == nums[i]) ans = i;
+            if(largest == nums[i]) return i;
         }
      }
-     return ans;   
+     return -1;   
     }
 };
