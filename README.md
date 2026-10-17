@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
@@ -321,6 +322,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -413,6 +415,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0239-sliding-window-maximum/) | Hard |
