@@ -1,19 +1,31 @@
 class Solution {
 public:
-    int totalFruit(vector<int>& fruits) {
-       int l = 0,n = fruits.size(),ans = 0;
-       vector<int> frq(1e5+1,0);
-       int type = 0;
-       for(int r = 0; r < n; r++){
-        if(frq[fruits[r]] == 0) type++;
-        frq[fruits[r]]++;
-        while(type > 2) {
-            frq[fruits[l]]--;
-            if(frq[fruits[l]] == 0) type--;
-            l++;
+    int totalFruit(vector<int>& nums) {
+        int n = nums.size(), first = nums[0], maxi = 0, i = 0,l = 0;
+        while (i<n && nums[i] == first) i++;
+        if (i == n) return n;
+        int second = nums[i];
+        int firstO = i-1;
+        int secondO = i;
+        maxi = i+1;
+        i++;
+        while (i<n) {
+            if (nums[i] == first || nums[i] == second) {
+                if (nums[i] == first) firstO = i;
+                else secondO = i;
+                maxi = max(i-l+1,maxi);
+                i++;
+                continue;
+            }
+            l = min(firstO,secondO)+1;
+            first = nums[l];
+            firstO = i-1;
+            secondO = i;
+            second = nums[i];
+
+            maxi = max(i-l+1,maxi);
+            i++;
         }
-        ans = max(ans,r-l+1);
-       }
-       return ans;
+        return maxi;
     }
 };
