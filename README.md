@@ -202,6 +202,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -306,6 +307,7 @@
 | [1929-concatenation-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -391,6 +393,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
