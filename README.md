@@ -299,6 +299,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1472-design-browser-history/) | Medium |
@@ -358,6 +359,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -421,6 +423,7 @@
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
