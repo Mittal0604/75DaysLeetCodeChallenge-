@@ -82,6 +82,7 @@
 | [0202-happy-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
@@ -143,6 +144,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0233-number-of-digit-one/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0342-power-of-four/) | Easy |
@@ -461,6 +463,7 @@
 | [0085-maximal-rectangle](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0085-maximal-rectangle/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0233-number-of-digit-one/) | Hard |
 | [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
