@@ -159,6 +159,7 @@
 | [0015-3sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0125-valid-palindrome/) | Easy |
@@ -235,6 +236,7 @@
 | [0011-container-with-most-water](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0039-combination-sum/) | Medium |
