@@ -80,6 +80,7 @@
 | [0066-plus-one](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
@@ -165,6 +166,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0283-move-zeroes/) | Easy |
@@ -254,6 +256,7 @@
 | [0152-maximum-product-subarray](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0179-largest-number/) | Medium |
+| [0189-rotate-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0217-contains-duplicate/) | Easy |
