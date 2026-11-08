@@ -37,6 +37,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1528-shuffle-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1528-shuffle-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3110-score-of-a-string/) | Easy |
 | [3136-valid-word](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3136-valid-word/) | Easy |
@@ -385,6 +386,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/3731-find-missing-elements/) | Easy |
