@@ -175,6 +175,7 @@
 | [0202-happy-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -207,6 +208,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -231,6 +233,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0389-find-the-difference/) | Easy |
@@ -280,6 +283,7 @@
 | [0239-sliding-window-maximum](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0322-coin-change/) | Medium |
@@ -811,6 +815,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -835,4 +840,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mittal0604/75DaysLeetCodeChallenge-/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
